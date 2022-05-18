@@ -87,10 +87,29 @@ body {
 }
 
 .buscar_conteiner2 {
-  text-align: center;
+  /* text-align: center; */
   color: #fff;
   background-color: #f11075;
   border-width: 1px;
   border-color: #949494;
   border-radius: 5px;
+}
+.lupa_conteiner2 {
+  color: #fff;
+  margin-left: 70px;
+}
+
+.footer_conteiner {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 159px;
+}
+
+.itens_footer_conteiner {
+  text-align: center;
+  flex-direction: column;
+  color: #949494;
 }
