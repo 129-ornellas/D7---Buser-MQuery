@@ -69,6 +69,11 @@ body {
 
 .fa-exchange-alt:before {
   color: #2f2fec;
+  transform: rotate(50deg);
+}
+
+.rodar {
+  transform: rotate(90deg);
 }
 
 .texto1_buscadores_conteiner2 {
@@ -105,7 +110,7 @@ body {
   justify-content: center;
   justify-content: space-between;
   align-items: flex-end;
-  margin-top: 159px;
+  margin-top: 160px;
 }
 
 .itens_footer_conteiner {
